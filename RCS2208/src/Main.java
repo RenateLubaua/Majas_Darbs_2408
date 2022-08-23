@@ -7,7 +7,7 @@ public class Main {
         DBlogic db = new DBlogic();
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Ievadi Lietot?jv?rdu");
+        System.out.println("Ievadi Lietotājvārdu");
         String username = scan.nextLine();
         System.out.println("Ievadi Paroli");
         String password = scan.nextLine();
